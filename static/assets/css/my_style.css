@@ -1,0 +1,18 @@
+.section.dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#my-video {
+  max-width: 100%;
+  width: 80%;
+  height: 30%;
+  padding-left: 330px;
+}
+
+.tablecss {
+  width: 60%;
+  margin-left: 343px;
+  margin-top: 20px;
+}
